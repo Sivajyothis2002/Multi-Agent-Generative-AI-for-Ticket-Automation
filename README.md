@@ -1,8 +1,6 @@
 <div align="center">
 
-# 🤖 Multi-Agent AI Ticket Automation
-
-### A Multi-Agent Generative AI Framework for Intelligent Customer Support Ticket Resolution using LangChain & LangGraph
+# A Multi-Agent Generative AI Framework for Intelligent Customer Support Ticket Resolution using LangChain & LangGraph
 
 <p align="center">
 
